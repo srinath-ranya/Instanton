@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Non-adiabatic-Instanton.aux
+The style file: jcp.bst
+Database file #1: Non-adiabatic-InstantonNotes.bib
+Database file #2: bibfiles-NAInstanton.bib
+Warning--I didn't find a database entry for ""
+Warning--empty booktitle in Sutin2007
+Warning--can't use both volume and number fields in Teranishi2012
+You've used 27 entries,
+            1866 wiz_defined-function locations,
+            766 strings with 8983 characters,
+and the built_in function-call counts, 5697 in all, are:
+= -- 429
+> -- 191
+< -- 3
++ -- 76
+- -- 49
+* -- 603
+:= -- 750
+add.period$ -- 27
+call.type$ -- 27
+change.case$ -- 0
+chr.to.int$ -- 0
+cite$ -- 29
+duplicate$ -- 315
+empty$ -- 587
+format.name$ -- 49
+if$ -- 1295
+int.to.chr$ -- 0
+int.to.str$ -- 27
+missing$ -- 27
+newline$ -- 113
+num.names$ -- 27
+pop$ -- 53
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 193
+stack$ -- 0
+substring$ -- 364
+swap$ -- 170
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 2
+while$ -- 57
+width$ -- 29
+write$ -- 201
+(There were 3 warnings)
